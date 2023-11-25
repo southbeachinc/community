@@ -1,4 +1,5 @@
 A library of free to use Southbeach Notation models and templates.  
+Also available here: https://www.southbeachinc.com/help/examples.html
 
 As of November 2023, over 400 models in 83 .sbm files, covering topics as diverse as consulting templates, the environment, the economy, futures, healthcare, innovation management and politics. Donated by members of the Southbeach community, the models are intended for training, experimentation, or as starting points for your own project(s).  
    
@@ -18,6 +19,6 @@ https://www.southbeachinc.com/software/download/index.html
 Explore the models individually, or in groups, drilling down to sub-models (with visual preview) to individual objects.   
 Enable or add custom creativity rules, generating directions for ideation.   
   
-Arranged by topic, each zip file (virus checked) contains several .sbm (XML) files.   
+Arranged by topic, each zip file (virus checked) contains several .sbm files, an efficient XML format supported by Southbeach Modeller.
 Each file contains one or more Southbeach models which appear in separate tabs when opened in Southbeach Modeller.  
 We suggest you extract the files to a subfolder 'samples' within the Southbeach documents/MyModels directory.  
