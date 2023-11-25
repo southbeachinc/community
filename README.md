@@ -1,5 +1,5 @@
 A library of free to use Southbeach Notation models and templates.  
-Donated by members of the Southbeach community, the models are intended for training, experimentation, or as starting points for your own project(s).  
+As of November 2023, over 400 models in 83 .sbm files, covering topics as diverse as consulting templates, the environment, the economy, futures, healthcare, innovation management and politics. Donated by members of the Southbeach community, the models are intended for training, experimentation, or as starting points for your own project(s).  
    
 Southbeach Community Example Visual Models by Southbeach Community is licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
